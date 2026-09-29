@@ -7,7 +7,7 @@ event:{name:"TRAVELUTION 2026",tag:"The Digital Evolution of Tourism",sub:"World
 events:[{t:"TOUR VISION Panel Discussion",d:"Keynote: Mr. Kolitha Ranawaka. Moderator: Ms. S. R. P. Withanachchi. Panelists: Mr. Nandana Wirasinha, Prof. Lalith Chandralal, Mr. Chaminda Munasinghe.",s:"Featured"},{t:"Add your next event",d:"Edit this card in the content editor.",s:"Placeholder"}],
 team:[
 // EDIT: change name, role, photo path. Photos go in images/team/
-{name:"Mithila Muthukudaarachchi",role:"President",photo:"images/team/mithila.png"},
+{name:"Mithila Muthukudaarachchi",role:"President",photo:"images/team/mithila.jpg"},
 {name:"Shakeel Ibrahim",role:"Vice President",photo:"images/team/shaqueel.png"},
 {name:"Krithika Dinoli",role:"Secretary",photo:"images/team/krithika.jpg"},
 {name:"Kavishka Akalanka",role:"Vice Secretary",photo:"images/team/kavishka.png"},
