@@ -22,10 +22,8 @@ team:[
 ],
 social:{
 // EDIT: paste full links (https://...). Empty ones stay greyed out.
-Facebook:"",
-Instagram:"",
-TikTok:"",
-LinkedIn:"",
-YouTube:""
+Facebook:"https://www.facebook.com/share/19gQQzNRBX/?mibextid=wwXIfr",
+Instagram:"https://www.instagram.com/voyagers.nibm?stkn=MXFpb3MwbHQzdGs1bQ%3D%3D&utm_source=qr",
+TikTok:"https://www.tiktok.com/@voyagersclubofnibm?_r=1&_t=ZS-9A98QeOucTg",
 },
 contact:"NIBM Voyagers Club, Department of Tourism & Hospitality Management, NIBM School of Business, Colombo 07, Sri Lanka. Email: add address in editor."};
