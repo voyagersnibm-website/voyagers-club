@@ -1,0 +1,1 @@
+Put team photos here, named as in data.js (e.g. mithila.jpg). Square, ~400px, under 200KB.
