@@ -8,7 +8,7 @@ events:[{t:"TOUR VISION Panel Discussion",d:"Keynote: Mr. Kolitha Ranawaka. Mode
 team:[
 // EDIT: change name, role, photo path. Photos go in images/team/
 {name:"Mithila Muthukudaarachchi",role:"President",photo:"images/team/team/mithila.png"},
-{name:"Shakeel Ibrahim",role:"Vice President",photo:"images/team/shaqueel.png"},
+{name:"Shakeel Ibrahim",role:"Vice President",photo:"images/team/team/shaqueel.png"},
 {name:"Krithika Dinoli",role:"Secretary",photo:"images/team/team/krithika.png"},
 {name:"Kavishka Akalanka",role:"Vice Secretary",photo:"images/team/team/kavishka.png"},
 {name:"Arosha Pathirana",role:"Treasurer",photo:"images/team/team/arosha.png"},
