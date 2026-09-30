@@ -8,17 +8,17 @@ events:[{t:"TOUR VISION Panel Discussion",d:"Keynote: Mr. Kolitha Ranawaka. Mode
 team:[
 // EDIT: change name, role, photo path. Photos go in images/team/
 {name:"Mithila Muthukudaarachchi",role:"President",photo:"images/team/team/mithila.png"},
-{name:"Shakeel Ibrahim",role:"Vice President",photo:"images/team/shaqueel.png"},
-{name:"Krithika Dinoli",role:"Secretary",photo:"images/team/krithika.png"},
-{name:"Kavishka Akalanka",role:"Vice Secretary",photo:"images/team/kavishka.png"},
-{name:"Arosha Pathirana",role:"Treasurer",photo:"images/team/arosha.png"},
-{name:"Anuki Jithsara",role:"Assistant Treasurer",photo:"images/team/anuki.png"},
-{name:"Dilini Kaushalya",role:"Public Relations Manager",photo:"images/team/dilini.png"},
-{name:"Linuka Senaratne",role:"Social Media Manager",photo:"images/team/linuka.png"},
-{name:"Tharuk Fernando",role:"Committee Head",photo:"images/team/tharuk.png"},
-{name:"Chathurika Sewwandi",role:"Photography & Media Coordinator",photo:"images/team/chathurika.png"},
-{name:"Oshadhi Manchala",role:"Membership & Engagement Manager",photo:"images/team/oshadhi.png"},
-{name:"Mihini Fernando",role:"External Affairs & Outreach Manager",photo:"images/team/mihini.png"},
+{name:"Shakeel Ibrahim",role:"Vice President",photo:"images/team/team/shaqueel.png"},
+{name:"Krithika Dinoli",role:"Secretary",photo:"images/team/team/krithika.png"},
+{name:"Kavishka Akalanka",role:"Vice Secretary",photo:"images/team/team/kavishka.png"},
+{name:"Arosha Pathirana",role:"Treasurer",photo:"images/team/team/arosha.png"},
+{name:"Anuki Jithsara",role:"Assistant Treasurer",photo:"images/team/team/anuki.png"},
+{name:"Dilini Kaushalya",role:"Public Relations Manager",photo:"images/team/team/dilini.png"},
+{name:"Linuka Senaratne",role:"Social Media Manager",photo:"images/team/team/linuka.png"},
+{name:"Tharuk Fernando",role:"Committee Head",photo:"images/team/team/tharuk.png"},
+{name:"Chathurika Sewwandi",role:"Photography & Media Coordinator",photo:"images/team/team/chathurika.png"},
+{name:"Oshadhi Manchala",role:"Membership & Engagement Manager",photo:"images/team/team/oshadhi.png"},
+{name:"Mihini Fernando",role:"External Affairs & Outreach Manager",photo:"images/team/team/mihini.png"},
 ],
 social:{
 // EDIT: paste full links (https://...). Empty ones stay greyed out.
